@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: #2d214a;
+    padding: 20px;
+    display: flex;
+}
+.title{
+    font-size: large;
+    font-family: sans-serif;
+    color: white;
+    margin-left: 10px;
+}
+.link{
+    margin: 0px 50px;
+    font-size: large;
+    color: grey;
+    font-family: sans-serif;
+    text-decoration: none;   
+}
+.search{
+    color: white;
+    margin-top: 5px;
+}
+.user{
+    color: white;
+    margin-top: 5px;
+    margin-left: 40px;
+}
